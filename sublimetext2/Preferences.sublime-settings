@@ -2,7 +2,7 @@
 // are overridden in turn by file type specific settings.
 {
   "font_face": "Consolas",
-  
+  // "font_face": "WenQuanYi Micro Hei Mono", // font_face for Ubuntu
   "font_size": 14,
 
   // The number of spaces a tab is considered equal to
