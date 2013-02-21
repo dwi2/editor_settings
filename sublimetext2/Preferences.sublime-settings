@@ -14,7 +14,10 @@
   // If translate_tabs_to_spaces is true, use_tab_stops will make tab and
   // backspace insert/delete up to the next tabstop
   "use_tab_stops": true,
-  
+
+  // trim trailing white space on save
+  "trim_trailing_white_space_on_save": true,
+
   // Determines what character(s) are used to terminate each line in new files.
   // Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and
   // 'unix' (LF only).
