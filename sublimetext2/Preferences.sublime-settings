@@ -23,6 +23,9 @@
   // 'unix' (LF only).
   "default_line_ending": "unix",
   
+  // Exclude some directories from searching when using GoTo Anything 
+  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"],
+    
   // // Adds a vertical line at column 80
   "rulers": [80]
 }
